@@ -5,4 +5,4 @@ language: objective-c
 #     - brew upgrade xctool
 
 script:
-    - xctool -workspace GPX.xcworkspace -scheme "GPX" -configuration Release -sdk iphonesimulator test
+    - xctool -workspace GPX.xcodeproj -scheme "GPX" -configuration Release -sdk iphonesimulator test

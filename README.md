@@ -1,8 +1,6 @@
-[![Version](http://cocoapod-badges.herokuapp.com/v/iOS-GPX-Framework/badge.png)](http://cocoadocs.org/docsets/iOS-KML-Framework)
-[![Platform](http://cocoapod-badges.herokuapp.com/p/iOS-GPX-Framework/badge.png)](http://cocoadocs.org/docsets/iOS-KML-Framework)
  
 [![License](http://img.shields.io/:license-mit-blue.svg)](http://opensource.org/licenses/mit-license.php)
-[![Build](https://travis-ci.org/Pierre-Loup/iOS-GPX-Framework.svg)](https://travis-ci.org/Pierre-Loup/iOS-GPX-Framework)
+[![Build](https://travis-ci.org/merlos/iOS-GPX-Framework.svg)](https://travis-ci.org/merlos/iOS-GPX-Framework)
 
 iOS GPX Framework
 ============================
